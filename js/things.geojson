@@ -1,0 +1,618 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dangerous Man Brewing",
+        "address": "1300 2nd Street NE Minneapolis, MN 55413",
+        "web": "http://dangerousmanbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26635122299194,
+          45.001041530887214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Indeed Brewing Company",
+        "address": "711 15th Avenue NE Minneapolis MN 55413",
+        "web": "http://www.indeedbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25154542922974,
+          45.00318082608626
+        ]
+      }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "title": "Boom Island Brewing Company",
+        "address": "2014 Washington Ave. N Minneapolis, MN 55411",
+        "web": "http://boomislandbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2812562584877,
+          44.999846676993506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Harriet Brewing",
+        "address": "3036 Minnehaha Ave Minneapolis, MN 55406",
+        "web": "http://boomislandbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23367655277252,
+          44.94725603024114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bauhous Brew Labs",
+        "address": "1315 Tyler Street NE Minneapolis, Minnesota 55413",
+        "web": "http://bauhausbrewlabs.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24587523937225,
+          45.001026358295576
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "612 Brew",
+        "address": "945 Broadway St NE Minneapolis, MN 55413",
+        "web": "http://www.612brew.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24699103832245,
+          44.998947675256325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fulton Brewery",
+        "address": "414 6th Ave N Minneapolis MN 55401",
+        "web": "http://fultonbeer.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27919363975525,
+          44.98488803267533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Town Hall Brewery",
+        "address": "1430 Washington Ave. S Minneapolis, MN 55454",
+        "web": "http://www.townhallbrewery.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24775815010071,
+          44.97333347857262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Day Block Brewing Company",
+        "address": "1105 Washington Ave S Minneapolis, MN 55415",
+        "web": "https://www.dayblockbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25306355953217,
+          44.97516073300032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Herkimer Pub and Brewery",
+        "address": "922 Lyndale Ave S. Minneapolis MN 55408",
+        "web": "http://www.theherkimer.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28828632831573,
+          44.94942011222259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Great Waters Brewing Company",
+        "address": "426 Saint Peter Street Saint Paul, MN 55102",
+        "web": "http://www.greatwatersbc.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09695363044739,
+          44.946773846474414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bang Brewing",
+        "address": "2320 Capp Road Saint Paul, MN 55114",
+        "web": "http://bangbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1926441192627,
+          44.97073006225054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Big Wood Brewing",
+        "address": "2222 4th St. White Bear Lake, MN 55110",
+        "web": "http://bigwoodbrewery.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.00675094127655,
+          45.08524812200069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Burning Brothers Brewing",
+        "address": "1750 W Thomas Ave St. Paul, MN 55104",
+        "web": "http://www.burnbrosbrew.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.17415833473206,
+          44.958747510697805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Excelsior Brewing",
+        "address": "421 3rd Street, Excelsior, MN 55331",
+        "web": "http://excelsiorbrew.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.56658160686491,
+          44.90221322771245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hammerheart Brewing",
+        "address": "7785 Lake Dr. Lino Lakes, MN 55014",
+        "web": "http://hammerheartbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1066632270813,
+          45.18916763110019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sysiphus Brewing",
+        "address": "712 Ontario Avenue W. #100 Minneapolis, MN 55403",
+        "web": "http://www.sisyphusbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28896760940552,
+          44.9731778841246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Summit Brewing",
+        "address": "910 Montreal Circle, St. Paul, MN 55102",
+        "web": "http://summitbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1397294998169,
+          44.91399864151555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Steel Toe Brewing",
+        "address": "4848 W. 35th St. St. Louis Park, MN",
+        "web": "http://www.steeltoebrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.34125459194183,
+          44.94134045653052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tin Whiskers Brewing Company",
+        "address": "125 E 9th St. Unit 127 St. Paul, MN 55101",
+        "web": "http://twbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.09355795383453,
+          44.9508172305805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Urban Growler Brewing Company",
+        "address": "2325 Endicott Street St. Paul, MN 55114",
+        "web": "http://www.urbangrowlerbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.19334685802458,
+          44.97022530459251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bent Brewstillery",
+        "address": "1744 Terrace Drive Roseville, MN 55113",
+        "web": "http://www.bentbrewstillery.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.17384719848631,
+          45.02448596951991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Badger Hill Brewing Company",
+        "address": "4571 Valley Industrial Blvd. S. Shakopee, MN 55379",
+        "web": "http://www.badgerhillbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.46155166625977,
+          44.793089307200425
+        ]
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Enki Brewing",
+        "address": "7929 Victoria Drive Victoria, Minnesota 55386",
+        "web": "http://www.enkibrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.66160422563553,
+          44.85979120670529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fair State Brewing Cooperative",
+        "address": "2506A Central Ave NE Minneapolis, MN 55418 ",
+        "web": "http://fairstatebrewing.tumblr.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24762403964996,
+          45.013348972053954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Insight Brewing",
+        "address": "2821 East Hennepin Avenue Minneapolis, MN 55413",
+        "web": "http://www.insightbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21281433105469,
+          44.9918234412382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LTD Brewing Company",
+        "address": "8 8th Ave. N. Hopkins, MN 55343",
+        "web": "http://www.ltdbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.41126561164856,
+          44.92429275391085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flat Earth Brewing Company",
+        "address": "688 Minnehaha Avenue East Saint Paul, MN 55106",
+        "web": "http://flatearthbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.07164430618286,
+          44.962835599398545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Surly Brewing Company",
+        "address": "520 Malcolm Ave SE Minneapolis, MN, 55414 ",
+        "web": "http://surlybrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.20974588394165,
+          44.97326896385272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "EastLake Brewery and Tavern",
+        "address": "920 E. Lake St. #123 Minneapolis, MN 55407",
+        "web": "http://www.eastlakemgm.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26040744781494,
+          44.948596252033866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "NorthGate Brewing",
+        "address": "783 Harding St. NE Minneapolis, MN 55413",
+        "web": "http://www.northgatebrew.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22126865386963,
+          44.99833315962359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lynlake Brewery",
+        "address": "2934 Lyndale Avenue S. Minneapolis, MN 55408",
+        "web": "http://www.lynlakebrewery.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28830510377884,
+          44.948917065356504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Northbound Smokehouse",
+        "address": "2716 East 38th Street, Minneapolis, MN 55406",
+        "web": "http://www.northboundbrewpub.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23243737220764,
+          44.93426222981321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Waconia Brewing",
+        "address": "255 Main Street West Waconia, MN",
+        "web": "http://www.waconiabrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7904441356659,
+          44.850559928641516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lift Bridge Brewing",
+        "address": "1900 Tower Dr Stillwater, MN 55082",
+        "web": "http://liftbridgebrewery.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.83179044723511,
+          45.03911207392489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Maple Island Brewing",
+        "address": "225 Main Street North Stillwater, MN 55082",
+        "web": "http://mapleislandbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.80671179294586,
+          45.058259112282954
+        ]
+      }
+    }
+  ]
+}
