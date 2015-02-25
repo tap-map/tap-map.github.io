@@ -613,6 +613,193 @@
           45.058259112282954
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Flat Earth Brewing Company",
+        "address": "688 Minnehaha Avenue East Saint Paul, MN 55106",
+        "web": "http://flatearthbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.07160139083862,
+          44.96286976047243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wabasha Brewing Company",
+        "address": "429 Wabasha St S  St Paul, MN 55107",
+        "web": "https://www.facebook.com/pages/Wabasha-Brewing-Company/1417295038505592",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.08315634727478,
+           44.93295205460526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bent Paddle Brewing",
+        "address": "1912 W. Michigan St  Duluth, MN 55806",
+        "web": "http://www.bentpaddlebrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.12197065353394,
+           46.767653608838515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Canal Park Brewing Company",
+        "address": "1300 Canal Park Dr  Duluth, MN 55802",
+        "web": "http://canalparkbrewery.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09413468837738,
+           46.78484707433584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tycoons Alehouse and Eatery",
+        "address": "132 E Superior St  Duluth, MN 55802",
+        "web": "http://tycoonsalehouse.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09563136100769,
+           46.788578947579495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Fitgers Brewhouse",
+        "address": "600 E Superior St, Duluth, MN 55802",
+        "web": "http://brewhouse.net/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.09055125713348,
+           46.792615397132145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lake Superior Brewing Company",
+        "address": "2711 West Superior Street  Duluth, MN 55806",
+        "web": "http://www.lakesuperiorbrewing.com",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.13177144527435,
+           46.76154272851753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Castle Danger Brewery",
+        "address": "17 – 7th Street  Two Harbors, MN 55616",
+        "web": "http://castledangerbrewery.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.67317271232604,
+           47.01960349311115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dubh Linn Irish Brew Pub",
+        "address": "109 W. Superior Street  Duluth, MN, 55802",
+        "web": "http://www.dubhlinnpub.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10001945495605,
+           46.78585720335899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Thirsty Pagan Brewery",
+        "address": "1623 Broadway  Superior, WI 54880",
+        "web": "http://www.thirstypaganbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.10217595100403,
+           46.72677138545918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Voyageur Brewing Company",
+        "address": "233 West Highway 61  Grand Marais, MN 55604",
+        "web": "http://www.voyageurbrewing.com/",
+        "marker-symbol": "beer",
+        "marker-color": "#23344c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3370302915573,
+           47.75015223966159
+        ]
+      }
     }
   ]
 }
