@@ -817,6 +817,91 @@
           45.036102237640264
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sidhe Brewing Company",
+        "address": "7990 Payne Ave, St Paul, MN 55130",
+        "web": "http://www.sidhebrewing.com",
+        "status": "pending",
+        "expected": "March 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.07322144508362,
+          44.970984336982184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bad Weather Brewing",
+        "address": "414 W 7th St, St Paul, MN 55102",
+        "web": "http://badweatherbrewery.com",
+        "status": "pending",
+        "expected": "Summer 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.11029493808745,
+          44.93893684326046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Angry Inch Brewing Company",
+        "address": "20730 Holyoak Ave, Suite 160, Lakeville, MN 55044",
+        "web": "http://www.angryinchbrewing.com",
+        "status": "pending",
+        "expected": "Spring - Summer 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24280142784119,
+          44.649177385399156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lake Monster Brewing",
+        "address": "550 Vandalia St, St Paul, MN 55144",
+        "web": "http://lakemonsterbrewing.com",
+        "status": "pending",
+        "expected": "Summer 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.19172143936157,
+          44.95766185973766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "56 Brewing",
+        "address": "3134 California St. NE, Minneapolis, MN 55418",
+        "web": "http://56brewing.com",
+        "status": "pending",
+        "expected": "Mid 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26956987380981,
+          45.02576751426737
+        ]
+      }
     }
   ]
 }

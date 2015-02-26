@@ -27,6 +27,12 @@ var beerPin = L.MakiMarkers.icon({
     size: "m"
 });
 
+var pendingPin = L.MakiMarkers.icon({
+    icon: "beer",
+    color: "#939393",
+    size: "m"
+});
+
 var tapLayer = new L.GeoJSON.AJAX("js/things.geojson",{
 		    pointToLayer: function (feature, latlng) {
 		    	
@@ -40,11 +46,20 @@ var tapLayer = new L.GeoJSON.AJAX("js/things.geojson",{
                if (feature.properties.address) {
                       html += '<p>'+ feature.properties.address + '</p>';
                                                }
+               if (feature.properties.expected) {
+                      html += '<p> Expected '+ feature.properties.expected + '</p>';
+                                               }
       html += '<div class="put"></div>';
       var popup = new L.popup({closeButton:false}).setContent(html);
 
       var marker = new L.marker(latlng);
-      marker.setIcon(beerPin);          
+      if (feature.properties.status === 'open') {
+          marker.setIcon(beerPin); 
+         }
+      else {
+          marker.setIcon(pendingPin); 
+         }
+      //marker.setIcon(beerPin);          
 		  marker.bindPopup(popup);
 	   
 		  return marker;		        
