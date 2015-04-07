@@ -902,6 +902,23 @@
           45.02576751426737
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lakes & Legends Brewing Company",
+        "address": "1368 LaSalle Ave., Minneapolis, MN 55403",
+        "web": "http://www.lakesandlegends.com",
+        "status": "pending",
+        "expected": "Late Summer 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2800,
+          44.9690
+        ]
+      }
     }
   ]
 }
