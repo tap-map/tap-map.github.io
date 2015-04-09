@@ -919,6 +919,55 @@
           44.9690
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Goat Ridge Brewing",
+        "address": "17 Central Ave. West, New London, MN 56273",
+        "web": "http://www.goatridgebrewing.com",
+        "status": "pending",
+        "expected": "Spring 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.94652986526489,
+          45.30119568054033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Union Pizza and Brewing",
+        "address": "114 S Union Ave, Fergus Falls, MN ",
+        "web": "http://unionpizzaandbrewing.com/",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.07623875141144,
+          46.28301346288511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "The Freehouse",
+        "address": "701 N Washington Ave, Minneapolis, MN 55401",
+        "web": "http://freehousempls.com/",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2772946357727,
+          44.98764256782427
+        ]
+      }
     }
   ]
 }
