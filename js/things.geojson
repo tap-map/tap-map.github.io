@@ -824,8 +824,7 @@
         "title": "Sidhe Brewing Company",
         "address": "7990 Payne Ave, St Paul, MN 55130",
         "web": "http://www.sidhebrewing.com",
-        "status": "pending",
-        "expected": "March 2015"
+        "status": "open",
       },
       "geometry": {
         "type": "Point",
@@ -926,8 +925,7 @@
         "title": "Goat Ridge Brewing",
         "address": "17 Central Ave. West, New London, MN 56273",
         "web": "http://www.goatridgebrewing.com",
-        "status": "pending",
-        "expected": "Spring 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -968,6 +966,167 @@
           44.98764256782427
         ]
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Rush River Brewing",
+        "address": "990 Antler Court, River Falls, WI 54022",
+        "web": "http://rushriverbeer.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.63826370239258,
+          44.89070663110981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lupulin Brewing",
+        "address": "570 Humboldt Drive, Suite 107, Big Lake, MN 55309",
+        "web": "http://www.lupulinbrewing.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.73934268951416,
+          45.331686444147294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "South Fork Brewing Company",
+        "address": "221 2nd Street North, Delano, MN 55328",
+        "web": "http://southforkbrewingcompany.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7881588935852,
+          45.04253869730901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lupine Brewing",
+        "address": "248 River Street North, Delano, MN 55328",
+        "web": "http://lupinebrewing.com",
+        "status": "pending",
+        "expected": "Summer 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.78915667533875,
+          45.04277370156957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lupine Brewing",
+        "address": "3320 Third Street North, Saint Cloud, MN 56303",
+        "web": "http://lupinebrewing.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1989016532898,
+          45.55848268288521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Spilled Grain Brewhouse",
+        "address": "300 Elm Street, Annandale, MN 55302 ",
+        "web": "http://www.spilledgrainbrewhouse.com",
+        "status": "pending",
+        "expected": "Summer 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.118971824646,
+          45.25957307626026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Big Axe Brewing Company",
+        "address": "25435 Main St. Nisswa, MN 56468",
+        "web": "http://www.bigaxebrewing.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.28900241851807,
+          46.5196951412051
+        ]
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Able Seed House and Brewery",
+        "address": "1121 Quincy St NE, Minneapolis, MN 55413 ",
+        "web": "http://www.ablebeer.com",
+        "status": "pending",
+        "expected": "2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25104117393494,
+          44.999334589125375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hayes Public House",
+        "address": "112 1st St S, Buffalo, MN 55313",
+        "web": "http://www.hayespublichouse.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.87456893920898,
+          45.17096456608541
+        ]
+      },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Rounds Brewpub",
+        "address": "4 3rd Street SW, Rochester, MN 55902",
+        "web": "http://grandroundsbrewpub.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.46333539485931,
+          44.02028254517522
+        ]
+      }
+
   ]
 }
