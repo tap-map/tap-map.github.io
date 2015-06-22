@@ -824,7 +824,7 @@
         "title": "Sidhe Brewing Company",
         "address": "7990 Payne Ave, St Paul, MN 55130",
         "web": "http://www.sidhebrewing.com",
-        "status": "open",
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
