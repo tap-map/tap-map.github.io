@@ -1129,6 +1129,70 @@
           44.02028254517522
         ]
       }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Junkyard Brewing",
+        "address": "1416 1st Ave N, Moorhead, MN 56560",
+        "web": "http://www.junkyardbeer.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7566990852356,
+          46.876218161834885
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Boathouse Brewpub and Restaurant",
+        "address": "47 East Sheridan St. Ely MN 55731",
+        "web": "http://www.boathousebrewpub.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.86559438705444,
+          47.903476410234866
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Reads Landing Brewing Company",
+        "address": "70555 202nd St, Reads Landing, MN 55968",
+        "web": "http://www.rlbrewingco.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.07856714725494,
+          44.40281341065321
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Red Wing Brewery",
+        "address": "1411 Old West Main St., Red Wing, MN 55066 ",
+        "web": "http://www.redwingbrewing.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.54748702049255,
+          44.56268745902148
+        ]
+      }
   }
   ]
 }
