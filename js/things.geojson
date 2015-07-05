@@ -1193,6 +1193,182 @@
           44.56268745902148
         ]
       }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Third Street Brewhouse",
+        "address": "219 Red River Ave, Cold Spring, MN 56320",
+        "web": "http://www.thirdstreetbrewhouse.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.42901372909544,
+          45.458158984368126
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wenonah Brewing Company",
+        "address": "4065 Sixth St, Goodview, Minnesota 55987",
+        "web": "http://www.wenonahbrewingcompany.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.69541358947754,
+          44.06231460352506
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bemidji Brewing",
+        "address": "4401 Beltrami Ave. NW Suite A, Bemidji, MN 56601",
+        "web": "http://bemidjibeer.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.88137364387511,
+          47.47174184767061
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Schram Vineyards and Brewery",
+        "address": "8785 Airport Rd, Waconia, MN 55387",
+        "web": "http://www.schramvineyards.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.88137364387511,
+          47.47174184767061
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sociable Ciderwerks",
+        "address": "1500 Fillmore St. NEm Minneapolis, MN 55413",
+        "web": "http://sociablecider.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2442256808281,
+          45.004301648328955
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Jack Pine Brewery",
+        "address": "7942 College Rd, Ste 115, Baxter, MN  56425",
+        "web": "http://www.jackpinebrewery.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.23500418663025,
+          46.34496498302826
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kinney Creek Brewery",
+        "address": "7942 College Rd, Ste 115, Baxter, MN  56425",
+        "web": "http://www.kinneycreekbrewery.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.47823774814606,
+          44.030974626360674
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "LTS Brewing Company",
+        "address": "2001 32nd Ave NW, Rochester, MN 55901",
+        "web": "http://www.ltsbrewing.com",
+        "status": "pending"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.51034379005432,
+          44.04472261002569
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Gull Dam Brewing Company",
+        "address": "23836 Smiley Road, Nisswa, MN 56468",
+        "web": "http://gulldambrewing.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.29753184318542,
+          46.497395212117844
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Beaver Island Brewing Company",
+        "address": "216 6th Ave, St. Cloud, MN 56301",
+        "web": "http://beaverislandbrew.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1569411754608,
+          45.558437610112286
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bank Brewing Company",
+        "address": "200 S Main St Hendricks, MN, 56136",
+        "web": "http://www.bankbrewing.com",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.42569303512573,
+          44.50815173822386
+        ]
+      }
   }
   ]
 }
