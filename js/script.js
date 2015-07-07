@@ -9,17 +9,10 @@ var map = L.map('map').setView([45, -93.2], 11);
                                }
                      }).addTo(map);
 
-var baselayer = new L.StamenTileLayer("toner-lite");
+//var baselayer = new L.StamenTileLayer("toner-lite");
+var baselayer = new L.StamenTileLayer("terrain");
 baselayer.addTo(map);
 
-var beerIcon = L.Icon.extend({
-	                             options: {
-		                                 	iconUrl: 'js/images/beer-24.png',
-			                                iconRetinaUrl: 'js/images/beer-24@2x.png',
-			                                iconSize: [24, 24],
-		                                	iconAnchor: [12, 12],
-	                                		popupAnchor: [0, -12]}
-	                          	});
 
 var beerPin = L.MakiMarkers.icon({
     icon: "beer",
