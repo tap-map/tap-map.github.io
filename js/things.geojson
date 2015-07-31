@@ -1369,6 +1369,23 @@
           44.50815173822386
         ]
       }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bryn Mawr Brewing",
+        "address": "225 Thomas Ave. N, Minneapolis, MN 55405",
+        "web": "http://brynmawrbrewing.com/",
+        "status": "pending",
+        "expected": "Winter 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3129572868347,
+          44.97902946274272
+        ]
+      }
   }
   ]
 }

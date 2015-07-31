@@ -1,7 +1,7 @@
 Tapmap
 ==========
 
-Taprooms and brew pubs on a http://fawcett.github.io/tapmap/!
+Taprooms and brew pubs on a http://tap-map.com/!
 
 This project started out as a way to visualize the locations of the rapidly expanding number of craft beer taprooms in the Minneapolis - St. Paul area, but it is not limited to just that area.  Taprooms located anywhere in the world are welcome!
 
@@ -13,6 +13,4 @@ The primary motivations for this project are:
  -    Provide a vehicle for new people to learn how to use Github.
 
 
- If you know of a taproom that isn't on the map, please submit a [pull request] (http://github.com/fawcett/tapmap/pulls) or file [an issue](http://github.com/fawcett/tapmap/issues)!
-
-
+ If you know of a taproom that isn't on the map, please submit a [pull request] (https://github.com/tap-map/tap-map.github.io/pulls) or file [an issue](https://github.com/tap-map/tap-map.github.io/issues)!
