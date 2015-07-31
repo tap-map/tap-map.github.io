@@ -1386,6 +1386,39 @@
           44.97902946274272
         ]
       }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Modist Brewing",
+        "address": "505 N 3rd St, Minneapolis, MN 55401",
+        "web": "http://modistbrewing.com/",
+        "status": "pending",
+        "expected": "Winter 2016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27652215957642,
+          44.98521433438358
+        ]
+      }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "F-Town Brewing",
+        "address": "22 4th Street NE, Faribault, MN 55021",
+        "web": "http://www.ftownbeer.com/",
+        "status": "open"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26733827590942,
+          44.29470490322091
+        ]
+      }
   }
   ]
 }
