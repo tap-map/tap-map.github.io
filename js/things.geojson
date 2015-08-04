@@ -1419,6 +1419,23 @@
           44.29470490322091
         ]
       }
+  },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lucid Brewing",
+        "address": "701 5th St N, Minneapolis, MN 55401",
+        "web": "http://www.lucidbrewing.com/",
+        "status": "pending",
+        "expected": "Fall 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28141450881958,
+           44.985677224318316
+        ]
+      }
   }
   ]
 }
