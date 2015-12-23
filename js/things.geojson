@@ -840,8 +840,7 @@
         "title": "Bad Weather Brewing",
         "address": "414 W 7th St, St Paul, MN 55102",
         "web": "http://badweatherbrewery.com",
-        "status": "pending",
-        "expected": "Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -874,8 +873,7 @@
         "title": "Lake Monster Brewing",
         "address": "550 Vandalia St, St Paul, MN 55144",
         "web": "http://lakemonsterbrewing.com",
-        "status": "pending",
-        "expected": "Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
