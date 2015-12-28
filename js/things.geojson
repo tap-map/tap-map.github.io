@@ -1434,6 +1434,22 @@
            44.985677224318316
         ]
       }
-  }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": "Omni Brewery",
+      "address": "9462 Deerwood Lane N, Maple Grove, MN 55369",
+      "web": "http://www.omnibrewing.com",
+      "status": "open"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+         -93.425554,
+         45.126525
+      ]
+    }
+}
   ]
 }
