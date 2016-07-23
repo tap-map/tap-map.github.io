@@ -840,8 +840,7 @@
         "title": "Bad Weather Brewing",
         "address": "414 W 7th St, St Paul, MN 55102",
         "web": "http://badweatherbrewery.com",
-        "status": "pending",
-        "expected": "Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -874,8 +873,7 @@
         "title": "Lake Monster Brewing",
         "address": "550 Vandalia St, St Paul, MN 55144",
         "web": "http://lakemonsterbrewing.com",
-        "status": "pending",
-        "expected": "Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1436,6 +1434,22 @@
            44.985677224318316
         ]
       }
-  }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "title": "Omni Brewery",
+      "address": "9462 Deerwood Lane N, Maple Grove, MN 55369",
+      "web": "http://www.omnibrewing.com",
+      "status": "open"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+         -93.425554,
+         45.126525
+      ]
+    }
+}
   ]
 }
