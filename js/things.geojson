@@ -889,8 +889,7 @@
         "title": "56 Brewing",
         "address": "3134 California St. NE, Minneapolis, MN 55418",
         "web": "http://56brewing.com",
-        "status": "pending",
-        "expected": "Mid 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -906,8 +905,7 @@
         "title": "Lakes & Legends Brewing Company",
         "address": "1368 LaSalle Ave., Minneapolis, MN 55403",
         "web": "http://www.lakesandlegends.com",
-        "status": "pending",
-        "expected": "Late Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1052,8 +1050,7 @@
         "title": "Spilled Grain Brewhouse",
         "address": "300 Elm Street, Annandale, MN 55302 ",
         "web": "http://www.spilledgrainbrewhouse.com",
-        "status": "pending",
-        "expected": "Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1085,8 +1082,7 @@
         "title": "Able Seed House and Brewery",
         "address": "1121 Quincy St NE, Minneapolis, MN 55413 ",
         "web": "http://www.ablebeer.com",
-        "status": "pending",
-        "expected": "2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1371,11 +1367,11 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bryn Mawr Brewing",
+        "title": "Utepils Brewing",
         "address": "225 Thomas Ave. N, Minneapolis, MN 55405",
-        "web": "http://brynmawrbrewing.com/",
+        "web": "http://utepilsbrewing.com",
         "status": "pending",
-        "expected": "Winter 2016"
+        "expected": "Fall 2016"
       },
       "geometry": {
         "type": "Point",
@@ -1421,11 +1417,10 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Lucid Brewing",
+        "title": "North Loop Brewing Company",
         "address": "701 5th St N, Minneapolis, MN 55401",
-        "web": "http://www.lucidbrewing.com/",
-        "status": "pending",
-        "expected": "Fall 2015"
+        "web": "http://www.northloopbrew.co",
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1450,6 +1445,360 @@
          45.126525
       ]
     }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Wild Mind Artisan Ales",
+    "address": "6031 Pillsbury Ave, Minneapolis, MN",
+    "web": "https://www.facebook.com/wildmindales/",
+    "status": "pending",
+    "expected": "July 28, 2016"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.28290581703186,
+         44.89329847628722
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "10K Brewing",
+    "address": "2005 2nd Ave, Anoka, MN 55303",
+    "web": "http://10kbrew.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.38956117630003,
+          45.19824052076591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Bad Habit Brewing",
+    "address": "15 E Minnesota St, St Joseph, MN, 56374",
+    "web": "http://www.badhabitbeer.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.3166720867157,
+          45.56503287475504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Birch's On The Lake",
+    "address": "1310 W Wayzata Blvd,Long Lake, MN 55356",
+    "web": "http://www.birchsonthelake.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.55703830718994,
+      44.985449573997826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Blacklist Artisan Ales",
+    "address": "120 Superior St, Duluth, MN",
+    "web": "http://blacklistbeer.com",
+    "status": "pending",
+    "expected": "Summer 2016"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.09588885307312,
+      46.78832183862708
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Carmody Irish Pub",
+    "address": "308 E Superior St, Duluth, MN 55802",
+    "web": "http://www.carmodyirishpub.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.09393620491028,
+      46.78984978236358
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Forager Brewery",
+    "address": "1005 6th Street NW, Rochester, Mn",
+    "web": "http://foragerbrewery.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.46008992195128,
+      44.02007809626248
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Foxhole Brewhouse",
+    "address": "313 4TH Street Southwest, Willmar, MN 56201",
+    "web": "http://www.foxholebrewhouse.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.0478744506836,
+      45.12136252647705
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Granite City Food and Brewery",
+    "address": "11909 Main StreetMaple Grove, Minnesota 55369",
+    "web": "http://www.gcfb.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.4320044517517,
+        45.09055047164807
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Gunflint Tavern",
+    "address": "111 W Wisconsin St, Grand Marais, MN 55604",
+    "web": "http://www.gunflinttavern.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -90.33522248268127,
+      47.7494164378612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Lakeville Brewing Company",
+    "address": "8790 Upper 208th Street West, Lakeville, MN 55044",
+    "web": "http://www.lakevillebrewing.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.24390113353729,
+      44.64865072380797
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Mankato Brewery",
+    "address": "1119 Center Street North Mankato, MN 56003",
+    "web": "http://mankatobrewery.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.01401162147522,
+      44.181711543549135
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Mantorville Brewing Company",
+    "address": "101 East 5th Street, Mantorville, MN 55955",
+    "web": "http://stagecoachbeer.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -92.75425314903259,
+          44.066678058491036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Montgomery Brewing Company",
+    "address": "306 2nd St. NW, Montgomery, MN 56069",
+    "web": "http://www.montgomerybrewing.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.58372092247009,
+      44.4412565361981
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Nutmeg Brew House",
+    "address": "1905 County Road 42 West, Burnsville, MN 55306",
+    "web": "http://nutmegbrewhouse.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.30358028411865,
+      44.7461541254696
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Oswald Brewing Company",
+    "address": "10 South Main St, Blue Earth, Minnesota",
+    "web": "http://www.oswaldbrewingcompany.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.10265862941742,
+      43.63827257148412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Oswald Brewing Company",
+    "address": "10 South Main St, Blue Earth, Minnesota",
+    "web": "http://www.oswaldbrewingcompany.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -94.10265862941742,
+      43.63827257148412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Lakeside Tavern",
+    "address": "200 West Lake Dr, Detroit Lakes, MN 56501",
+    "web": "http://www.tavernbrewery.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -95.84768772125244,
+      46.806661644287296
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "U4ic Brewing Inc",
+    "address": "23436 Union Trl, Belle Plaine, MN",
+    "web": "http://u4icbrewing.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.85512828826904,
+      44.609076371472845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Vine Park Brewing",
+    "address": "1254 West 7th Street, St. Paul, Minnesota 55102",
+    "web": "http://www.vinepark.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.13448309898376,
+      44.922332836283864
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Wayzata Brew Works",
+    "address": "294 Grove Ln E, Wayzata, MN 55391",
+    "web": "http://www.wayzatabrewworks.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.51779758930206,
+      44.96943210501201
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Wicked Wort Brewing Company",
+    "address": "4165 W Broadway Ave. Robbinsdale, MN 55422",
+    "web": "http://www.wickedwortbrewingco.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.33909273147583,
+          45.030908571040605
+    ]
+  }
 }
   ]
 }
