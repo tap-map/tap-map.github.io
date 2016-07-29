@@ -1452,8 +1452,7 @@
     "title": "Wild Mind Artisan Ales",
     "address": "6031 Pillsbury Ave, Minneapolis, MN",
     "web": "https://www.facebook.com/wildmindales/",
-    "status": "pending",
-    "expected": "July 28, 2016"
+    "status": "open"
   },
   "geometry": {
     "type": "Point",
@@ -1797,6 +1796,38 @@
     "coordinates": [
       -93.33909273147583,
           45.030908571040605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Angry Minnow Brewing Company",
+    "address": "10440 Florida Ave., Hayward, WI 54843",
+    "web": "http://angryminnow.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.48982763290404,
+          46.010983197077884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Minocqua Brewing Company",
+    "address": "238 Lakeshore Drive, Minocqua, WI, Minocqua, WI 54548",
+    "web": "http://minocquabrewingcompany.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.71022486686707,
+          45.87279249409214
     ]
   }
 }
