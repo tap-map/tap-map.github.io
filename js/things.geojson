@@ -856,8 +856,7 @@
         "title": "Angry Inch Brewing Company",
         "address": "20730 Holyoak Ave, Suite 160, Lakeville, MN 55044",
         "web": "http://www.angryinchbrewing.com",
-        "status": "pending",
-        "expected": "Spring - Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1017,8 +1016,7 @@
         "title": "Lupine Brewing",
         "address": "248 River Street North, Delano, MN 55328",
         "web": "http://lupinebrewing.com",
-        "status": "pending",
-        "expected": "Summer 2015"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1306,7 +1304,7 @@
         "title": "LTS Brewing Company",
         "address": "2001 32nd Ave NW, Rochester, MN 55901",
         "web": "http://www.ltsbrewing.com",
-        "status": "pending"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1387,8 +1385,7 @@
         "title": "Modist Brewing",
         "address": "505 N 3rd St, Minneapolis, MN 55401",
         "web": "http://modistbrewing.com/",
-        "status": "pending",
-        "expected": "Winter 2016"
+        "status": "open"
       },
       "geometry": {
         "type": "Point",
@@ -1452,8 +1449,7 @@
     "title": "Wild Mind Artisan Ales",
     "address": "6031 Pillsbury Ave, Minneapolis, MN",
     "web": "https://www.facebook.com/wildmindales/",
-    "status": "pending",
-    "expected": "July 28, 2016"
+    "status": "open"
   },
   "geometry": {
     "type": "Point",
@@ -1797,6 +1793,150 @@
     "coordinates": [
       -93.33909273147583,
           45.030908571040605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Angry Minnow Brewing Company",
+    "address": "10440 Florida Ave., Hayward, WI 54843",
+    "web": "http://angryminnow.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.48982763290404,
+          46.010983197077884
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Minocqua Brewing Company",
+    "address": "238 Lakeshore Drive, Minocqua, WI, Minocqua, WI 54548",
+    "web": "http://minocquabrewingcompany.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -89.71022486686707,
+          45.87279249409214
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Toppling Goliath",
+    "address": "310 College Drive, Decorah, IA 52101",
+    "web": "http://www.tgbrews.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -91.79710149765015,
+          43.30827767701601
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Cascade Brewing Barrel House",
+    "address": "939 SE Belmont St, Portland, OR 97214",
+    "web": "http://www.cascadebrewingbarrelhouse.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -122.65599131584167,
+          45.516699739765286
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Crooked Stave",
+    "address": "3350 Brighton Blvd, Denver, CO 80216",
+    "web": "http://www.crookedstave.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -104.97950971126556,
+          39.76856010927762
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Logsdon Barrel House & Taproom",
+    "address": "101 4th Str. Hood River, OR 97031",
+    "web": "http://www.farmhousebeer.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -121.51419639587402,
+          45.709415888957686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Transmitter Brewing",
+    "address": "53-02 11th ST. STE A LIC NY 11101",
+    "web": "http://www.transmitterbrew.com/",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -73.95266532897949,
+          40.74027453622091
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Weyerbacher Brewing",
+    "address": "905 Line St, Easton, PA 18042",
+    "web": "http://www.weyerbacher.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -75.22553443908691,
+          40.67326616354527
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "title": "Jester King Brewery",
+    "address": "13005 Fitzhugh Rd., Austin, TX 78736",
+    "web": "http://jesterkingbrewery.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -97.9992914199829,
+          30.230640913819098
     ]
   }
 }
