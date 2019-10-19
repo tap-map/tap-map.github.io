@@ -31,7 +31,7 @@ var tapLayer = new L.GeoJSON.AJAX("js/things.geojson",{
 		    	
 				 var html = '';
                if (feature.properties.web) {
-                      html += '<h3><a href="'+ feature.properties.web + '">' + feature.properties.title + '</a></h3>';
+                      html += '<span style="font-size:1.5em;"><a href="'+ feature.properties.web + '" target="_blank">' + feature.properties.title + '</a>, </span><small> opens in a new tab</small>';
                                            } 
                else {
                       html += '<h3>' + feature.properties.title + '</h3>';
