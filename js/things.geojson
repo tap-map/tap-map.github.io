@@ -1799,6 +1799,22 @@
 {
   "type": "Feature",
   "properties": {
+    "title": "Invictus Brewing Company",
+    "address": "2025 105th Ave NE, Blaine, MN 55449",
+    "web": "http://invictusbrewingco.com",
+    "status": "open"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -93.219518,
+      45.161803
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
     "title": "Angry Minnow Brewing Company",
     "address": "10440 Florida Ave., Hayward, WI 54843",
     "web": "http://angryminnow.com",
